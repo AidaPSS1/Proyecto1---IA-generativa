@@ -1,4 +1,4 @@
-# Proyecto1---IA-generativa
+# Proyecto Multiagente (parte 1)  IA-generativa
 
 El sistema proyV3 implementa una arquitectura multiagente donde diferentes "especialistas" (agentes de IA) manejan tareas específicas. El objetivo es simular un entorno de trabajo real donde diferentes roles (médico, administrativo, coordinador) interactúan con una base de datos compartida (archivos Excel) para consultar información y registrar resultados.
 
